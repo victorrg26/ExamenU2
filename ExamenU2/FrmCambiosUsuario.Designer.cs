@@ -75,19 +75,19 @@
             label3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label3.Location = new Point(476, 121);
             label3.Name = "label3";
-            label3.Size = new Size(100, 28);
+            label3.Size = new Size(171, 28);
             label3.TabIndex = 2;
-            label3.Text = "APaterno";
+            label3.Text = "Apellido Paterno";
             // 
             // label4
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label4.Location = new Point(48, 217);
+            label4.Location = new Point(27, 217);
             label4.Name = "label4";
-            label4.Size = new Size(107, 28);
+            label4.Size = new Size(178, 28);
             label4.TabIndex = 3;
-            label4.Text = "AMaterno";
+            label4.Text = "Apellido Materno";
             // 
             // label5
             // 
@@ -122,7 +122,7 @@
             // txtAPaterno
             // 
             txtAPaterno.BackColor = SystemColors.InactiveCaption;
-            txtAPaterno.Location = new Point(476, 161);
+            txtAPaterno.Location = new Point(501, 161);
             txtAPaterno.Name = "txtAPaterno";
             txtAPaterno.Size = new Size(125, 27);
             txtAPaterno.TabIndex = 7;
